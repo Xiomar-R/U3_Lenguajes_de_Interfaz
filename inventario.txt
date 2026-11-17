@@ -1,0 +1,4 @@
+CUA-001|Cuaderno profesional|4550|30
+LAP-002|Lapiz HB|850|50
+PLU-003|Pluma azul|1200|40
+MAR-004|Marcador permanente|1999|25
